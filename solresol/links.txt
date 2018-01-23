@@ -15,7 +15,10 @@ IN-DEPTH
   https://web.archive.org/web/20110927190641/https://webspace.utexas.edu/bighamds/LIN312/Files/SolReSol.pdf
 
 WORDS
+    (every word from the original word list and words worked on by the community)
   https://docs.google.com/spreadsheets/d/1-3lBxMURGN4AtGG846kuVGVNuEiHewCT88PiBahnODA/edit#gid=0
+    (all possible 5-syllable words and their translations if they have one, may not be up-to-date)
+  https://docs.google.com/spreadsheets/d/1wtv85oKZRK4vvUAEFZX98A6JNCpCOK4miZj5_Kebf08/edit#gid=0
 
 NUMBERS
   http://www.languagesandnumbers.com/how-to-count-in-solresol/en/solresol/
