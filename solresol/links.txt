@@ -19,6 +19,11 @@ WORDS
     (all possible 5-syllable words and their translations if they have one, may not be up-to-date)
   https://docs.google.com/spreadsheets/d/1wtv85oKZRK4vvUAEFZX98A6JNCpCOK4miZj5_Kebf08/edit#gid=0
 
+ARTISTIC
+    (Text renderer, lost in 2016 and found 2018 [it's an archived version, to download; right click and save page])
+  https://web.archive.org/web/20160203183138/https://19f16305f9d12552d855f158571a31aa70600c4c.googledrive.com/host/0B3_aRegKVpZ2VzlTTWtLODdqVTg/content/solresol/render.html
+  
+
 NUMBERS
   http://www.languagesandnumbers.com/how-to-count-in-solresol/en/solresol/
 
