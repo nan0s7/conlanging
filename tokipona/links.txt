@@ -1,2 +1,5 @@
 GENERAL
   http://tokipona.net/
+
+TUTORIALS
+  https://www.reddit.com/r/tokipona14days/
