@@ -4,6 +4,11 @@ DISCUSSIONS
     (Neologisms / words that aren't in Solresol)
   https://www.sidosi.org/community/viewtopic.php?f=30&t=10
 
+FUTURE TALK
+  - ADJUSTMENTS
+  https://docs.google.com/spreadsheets/d/1i9oLGJUsmismvUtQz96faRpOgf82g2NZsRa-ikForG0/edit#gid=0
+    (A list of things that may be changed to make Solresol more "modern")
+
 IN-DEPTH
   - TUTORIALS
   https://solresol.blogspot.com.au/2012/07/learning-solresol-lesson-1-introduction.html
