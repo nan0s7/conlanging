@@ -6,6 +6,5 @@ LANGUAGES INSPIRED BY OR BASED OFF OF SOLRESOL
 - My experiment that improves the categorical features of the language, as well as some other things, [here](https://docs.google.com/spreadsheets/d/1ME694En6lOwQRL4ohp8QmevmO6hTPXsb3PyvYNlhSCI/edit?usp=sharing)
 
 MUSICAL LANGUAGES (OR THOSE BASED OFF OF SOMETHING MUSIC RELATED, LIKE SOLRESOL)
-- Shoshire by HaruBells
-        https://www.reddit.com/r/conlangs/comments/6mr1li/shoshire_my_first_conlang/
+- Shoshire by HaruBells, [here](https://www.reddit.com/r/conlangs/comments/6mr1li/shoshire_my_first_conlang/)
 - Chirpie by [Whitewings1](https://nm.reddit.com/user/Whitewings1), [here](https://nm.reddit.com/r/conlangs/comments/c6opme/chirpie_a_musical_conlang/)
